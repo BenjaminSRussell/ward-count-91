@@ -736,3 +736,6 @@
 {"n":736,"kind":"place","name":"the Lot north dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Lot north dock. Ivo keeps the crate for the hit. 5 steps, arc on the left lane, open."}
 {"n":737,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north dock. arc left open. 6 steps. The crate stays for the hit."}
 {"n":738,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at the Lot. Nobody past the north dock. We hit in 7 steps. Arc on the left lane, open."}
+{"n":739,"kind":"place","name":"the Lot north dock","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot north dock. Bess keeps the crate for the hit. 8 steps, arc on the left lane, open."}
+{"n":740,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north dock. arc left open. 2 steps. The crate stays for the hit."}
+{"n":741,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at Stockyard fence. Nobody past the north dock. We hit in 3 steps. Arc on the left lane, open."}

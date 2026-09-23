@@ -942,3 +942,6 @@
 {"n":942,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at the pier. Nobody past the south mouth. We hit in 7 steps. Arc on the left lane, open."}
 {"n":943,"kind":"place","name":"the pier south mouth","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the pier south mouth. Bess keeps the lamp for the hit. 8 steps, arc on the left lane, open."}
 {"n":944,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, south mouth. arc left open. 2 steps. The lamp stays for the hit."}
+{"n":945,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Clinic roof. Nobody past the south mouth. We hit in 3 steps. Arc on the left lane, open."}
+{"n":946,"kind":"place","name":"Clinic roof south mouth","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Clinic roof south mouth. Matt keeps the lamp for the hit. 4 steps, arc on the left lane, open."}
+{"n":947,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, south mouth. arc left open. 5 steps. The lamp stays for the hit."}

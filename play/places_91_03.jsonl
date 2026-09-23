@@ -651,3 +651,6 @@
 {"n":651,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, west dock. arc left open. 8 steps. The barrel stays for the hit."}
 {"n":652,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at Drydock. Nobody past the west dock. We hit in 2 steps. Arc on the left lane, open."}
 {"n":653,"kind":"place","name":"Drydock west dock","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Drydock west dock. Nia keeps the barrel for the hit. 3 steps, arc on the left lane, open."}
+{"n":654,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, west dock. arc left open. 4 steps. The barrel stays for the hit."}
+{"n":655,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at Drydock. Nobody past the west dock. We hit in 5 steps. Arc on the left lane, open."}
+{"n":656,"kind":"place","name":"Drydock west dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock west dock. Ivo keeps the barrel for the hit. 6 steps, arc on the left lane, open."}

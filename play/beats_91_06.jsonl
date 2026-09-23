@@ -823,3 +823,6 @@
 {"n":823,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the drum at Clinic roof. Nobody past the east dock. We hit in 2 steps. Arc on the left lane, open."}
 {"n":824,"kind":"place","name":"Clinic roof east dock","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Clinic roof east dock. Ivo keeps the drum for the hit. 3 steps, arc on the left lane, open."}
 {"n":825,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, east dock. arc left open. 4 steps. The drum stays for the hit."}
+{"n":826,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the drum at Clinic roof. Nobody past the east dock. We hit in 5 steps. Arc on the left lane, open."}
+{"n":827,"kind":"place","name":"Clinic roof east dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Clinic roof east dock. Bess keeps the drum for the hit. 6 steps, arc on the left lane, open."}
+{"n":828,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, east dock. arc left open. 7 steps. The drum stays for the hit."}

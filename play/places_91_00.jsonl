@@ -447,3 +447,6 @@
 {"n":447,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, north mouth. arc left open. 3 steps. The shutter stays for the hit."}
 {"n":448,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at Switchyard. Nobody past the north mouth. We hit in 4 steps. Arc on the left lane, open."}
 {"n":449,"kind":"place","name":"Switchyard north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Switchyard north mouth. Nia keeps the shutter for the hit. 5 steps, arc on the left lane, open."}
+{"n":450,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, north mouth. arc left open. 6 steps. The shutter stays for the hit."}
+{"n":451,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at Switchyard. Nobody past the north mouth. We hit in 7 steps. Arc on the left lane, open."}
+{"n":452,"kind":"place","name":"Switchyard north mouth","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Switchyard north mouth. Ivo keeps the shutter for the hit. 8 steps, arc on the left lane, open."}

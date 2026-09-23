@@ -319,3 +319,6 @@
 {"n":319,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rope at Clinic roof. Nobody past the east dock. We hit in 2 steps. Arc on the left lane, open."}
 {"n":320,"kind":"place","name":"Clinic roof east dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Clinic roof east dock. Ivo keeps the rope for the hit. 3 steps, arc on the left lane, open."}
 {"n":321,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, east dock. arc left open. 4 steps. The rope stays for the hit."}
+{"n":322,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rope at Clinic roof. Nobody past the east dock. We hit in 5 steps. Arc on the left lane, open."}
+{"n":323,"kind":"place","name":"Clinic roof east dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Clinic roof east dock. Bess keeps the rope for the hit. 6 steps, arc on the left lane, open."}
+{"n":324,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, east dock. arc left open. 7 steps. The rope stays for the hit."}

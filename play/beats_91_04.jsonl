@@ -852,3 +852,6 @@
 {"n":852,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the badge door at Ward gate. Nobody past the west dock. We hit in 5 steps. Arc on the left lane, open."}
 {"n":853,"kind":"place","name":"Ward gate west dock","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Ward gate west dock. Nia keeps the badge door for the hit. 6 steps, arc on the left lane, open."}
 {"n":854,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, west dock. arc left open. 7 steps. The badge door stays for the hit."}
+{"n":855,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the badge door at Ward gate. Nobody past the west dock. We hit in 8 steps. Arc on the left lane, open."}
+{"n":856,"kind":"place","name":"Ward gate west dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Ward gate west dock. Ivo keeps the badge door for the hit. 2 steps, arc on the left lane, open."}
+{"n":857,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, west dock. arc left open. 3 steps. The badge door stays for the hit."}

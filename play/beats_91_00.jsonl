@@ -496,3 +496,6 @@
 {"n":496,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at Kessler alley. Nobody past the north mouth. We hit in 3 steps. Arc on the left lane, open."}
 {"n":497,"kind":"place","name":"Kessler alley north mouth","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Kessler alley north mouth. Nia keeps the awning for the hit. 4 steps, arc on the left lane, open."}
 {"n":498,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, north mouth. arc left open. 5 steps. The awning stays for the hit."}
+{"n":499,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the awning at Kessler alley. Nobody past the north mouth. We hit in 6 steps. Arc on the left lane, open."}
+{"n":500,"kind":"place","name":"Kessler alley north mouth","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley north mouth. Ivo keeps the awning for the hit. 7 steps, arc on the left lane, open."}
+{"n":501,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north mouth. arc left open. 8 steps. The awning stays for the hit."}

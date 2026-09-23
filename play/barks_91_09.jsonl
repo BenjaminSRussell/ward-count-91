@@ -11,3 +11,6 @@
 {"n":11,"kind":"place","name":"Clinic roof north dock","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Clinic roof north dock. Bess keeps the badge door for the hit. 6 steps, arc on the left lane, open."}
 {"n":12,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, north dock. arc left open. 7 steps. The badge door stays for the hit."}
 {"n":13,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the badge door at Switchyard. Nobody past the north dock. We hit in 8 steps. Arc on the left lane, open."}
+{"n":14,"kind":"place","name":"Switchyard north dock","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Switchyard north dock. Matt keeps the badge door for the hit. 2 steps, arc on the left lane, open."}
+{"n":15,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, north dock. arc left open. 3 steps. The badge door stays for the hit."}
+{"n":16,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the badge door at Switchyard. Nobody past the north dock. We hit in 4 steps. Arc on the left lane, open."}

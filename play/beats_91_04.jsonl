@@ -129,3 +129,6 @@
 {"n":129,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rebar at Clinic roof. Nobody past the west dock. We hit in 3 steps. Arc on the left lane, open."}
 {"n":130,"kind":"place","name":"Clinic roof west dock","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Clinic roof west dock. Matt keeps the rebar for the hit. 4 steps, arc on the left lane, open."}
 {"n":131,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, west dock. arc left open. 5 steps. The rebar stays for the hit."}
+{"n":132,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rebar at Clinic roof. Nobody past the west dock. We hit in 6 steps. Arc on the left lane, open."}
+{"n":133,"kind":"place","name":"Clinic roof west dock","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Clinic roof west dock. Nia keeps the rebar for the hit. 7 steps, arc on the left lane, open."}
+{"n":134,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, west dock. arc left open. 8 steps. The rebar stays for the hit."}

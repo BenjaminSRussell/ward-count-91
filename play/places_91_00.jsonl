@@ -480,3 +480,6 @@
 {"n":480,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north mouth. arc left open. 8 steps. The shutter stays for the hit."}
 {"n":481,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at Ward gate. Nobody past the north mouth. We hit in 2 steps. Arc on the left lane, open."}
 {"n":482,"kind":"place","name":"Ward gate north mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate north mouth. Matt keeps the awning for the hit. 3 steps, arc on the left lane, open."}
+{"n":483,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north mouth. arc left open. 4 steps. The awning stays for the hit."}
+{"n":484,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at Ward gate. Nobody past the north mouth. We hit in 5 steps. Arc on the left lane, open."}
+{"n":485,"kind":"place","name":"Ward gate north mouth","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Ward gate north mouth. Nia keeps the awning for the hit. 6 steps, arc on the left lane, open."}

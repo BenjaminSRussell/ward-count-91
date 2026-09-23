@@ -391,3 +391,6 @@
 {"n":391,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at Mast yard. Nobody past the north mouth. We hit in 3 steps. Arc on the left lane, open."}
 {"n":392,"kind":"place","name":"Mast yard north mouth","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mast yard north mouth. Ivo keeps the shutter for the hit. 4 steps, arc on the left lane, open."}
 {"n":393,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north mouth. arc left open. 5 steps. The shutter stays for the hit."}
+{"n":394,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at Mast yard. Nobody past the north mouth. We hit in 6 steps. Arc on the left lane, open."}
+{"n":395,"kind":"place","name":"Mast yard north mouth","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mast yard north mouth. Bess keeps the shutter for the hit. 7 steps, arc on the left lane, open."}
+{"n":396,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north mouth. arc left open. 8 steps. The shutter stays for the hit."}

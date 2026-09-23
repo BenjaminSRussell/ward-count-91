@@ -399,3 +399,6 @@
 {"n":399,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at Mall court. Nobody past the west dock. We hit in 7 steps. Arc on the left lane, open."}
 {"n":400,"kind":"place","name":"Mall court west dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Mall court west dock. Ivo keeps the shutter for the hit. 8 steps, arc on the left lane, open."}
 {"n":401,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, west dock. arc left open. 2 steps. The shutter stays for the hit."}
+{"n":402,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at Mall court. Nobody past the west dock. We hit in 3 steps. Arc on the left lane, open."}
+{"n":403,"kind":"place","name":"Mall court west dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mall court west dock. Bess keeps the shutter for the hit. 4 steps, arc on the left lane, open."}
+{"n":404,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, west dock. arc left open. 5 steps. The shutter stays for the hit."}

@@ -982,3 +982,6 @@
 {"n":982,"kind":"place","name":"Switchyard west dock","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Switchyard west dock. Matt keeps the badge door for the hit. 2 steps, arc on the left lane, open."}
 {"n":983,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, west dock. arc left open. 3 steps. The badge door stays for the hit."}
 {"n":984,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the badge door at Switchyard. Nobody past the west dock. We hit in 4 steps. Arc on the left lane, open."}
+{"n":985,"kind":"place","name":"Switchyard west dock","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Switchyard west dock. Nia keeps the badge door for the hit. 5 steps, arc on the left lane, open."}
+{"n":986,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, west dock. arc left open. 6 steps. The badge door stays for the hit."}
+{"n":987,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the badge door at Switchyard. Nobody past the west dock. We hit in 7 steps. Arc on the left lane, open."}

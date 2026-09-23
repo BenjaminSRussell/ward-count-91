@@ -505,3 +505,6 @@
 {"n":505,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, south mouth. arc left open. 3 steps. The awning stays for the hit."}
 {"n":506,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the awning at Ward gate. Nobody past the south mouth. We hit in 4 steps. Arc on the left lane, open."}
 {"n":507,"kind":"place","name":"Ward gate south mouth","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Ward gate south mouth. Bess keeps the awning for the hit. 5 steps, arc on the left lane, open."}
+{"n":508,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, south mouth. arc left open. 6 steps. The awning stays for the hit."}
+{"n":509,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at Kessler alley. Nobody past the south mouth. We hit in 7 steps. Arc on the left lane, open."}
+{"n":510,"kind":"place","name":"Kessler alley south mouth","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Kessler alley south mouth. Matt keeps the awning for the hit. 8 steps, arc on the left lane, open."}

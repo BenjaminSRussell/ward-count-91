@@ -484,3 +484,6 @@
 {"n":484,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the hydrant at South stair. Nobody past the south dock. We hit in 3 steps. Arc on the left lane, open."}
 {"n":485,"kind":"place","name":"South stair south dock","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"South stair south dock. Nia keeps the hydrant for the hit. 4 steps, arc on the left lane, open."}
 {"n":486,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, south dock. arc left open. 5 steps. The hydrant stays for the hit."}
+{"n":487,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the hydrant at South stair. Nobody past the south dock. We hit in 6 steps. Arc on the left lane, open."}
+{"n":488,"kind":"place","name":"South stair south dock","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"South stair south dock. Ivo keeps the hydrant for the hit. 7 steps, arc on the left lane, open."}
+{"n":489,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, south dock. arc left open. 8 steps. The hydrant stays for the hit."}

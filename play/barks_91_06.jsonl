@@ -500,3 +500,6 @@
 {"n":500,"kind":"place","name":"Switchyard east dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Switchyard east dock. Ivo keeps the shutter for the hit. 8 steps, arc on the left lane, open."}
 {"n":501,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, east dock. arc left open. 2 steps. The shutter stays for the hit."}
 {"n":502,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at Switchyard. Nobody past the east dock. We hit in 3 steps. Arc on the left lane, open."}
+{"n":503,"kind":"place","name":"Switchyard east dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard east dock. Bess keeps the shutter for the hit. 4 steps, arc on the left lane, open."}
+{"n":504,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, east dock. arc left open. 5 steps. The shutter stays for the hit."}
+{"n":505,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the shutter at Drydock. Nobody past the east dock. We hit in 6 steps. Arc on the left lane, open."}

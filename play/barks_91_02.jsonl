@@ -129,3 +129,6 @@
 {"n":129,"kind":"place","name":"Switchyard south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Switchyard south mouth. Nia keeps the rebar for the hit. 5 steps, arc on the left lane, open."}
 {"n":130,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, south mouth. arc left open. 6 steps. The rebar stays for the hit."}
 {"n":131,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rebar at Switchyard. Nobody past the south mouth. We hit in 7 steps. Arc on the left lane, open."}
+{"n":132,"kind":"place","name":"Switchyard south mouth","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Switchyard south mouth. Ivo keeps the rebar for the hit. 8 steps, arc on the left lane, open."}
+{"n":133,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, south mouth. arc left open. 2 steps. The rebar stays for the hit."}
+{"n":134,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rebar at Switchyard. Nobody past the south mouth. We hit in 3 steps. Arc on the left lane, open."}

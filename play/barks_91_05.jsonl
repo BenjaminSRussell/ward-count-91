@@ -150,3 +150,6 @@
 {"n":150,"kind":"place","name":"Switchyard west dock","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Switchyard west dock. Matt keeps the radio coil for the hit. 2 steps, arc on the left lane, open."}
 {"n":151,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, west dock. arc left open. 3 steps. The radio coil stays for the hit."}
 {"n":152,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at Switchyard. Nobody past the west dock. We hit in 4 steps. Arc on the left lane, open."}
+{"n":153,"kind":"place","name":"Switchyard west dock","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Switchyard west dock. Nia keeps the radio coil for the hit. 5 steps, arc on the left lane, open."}
+{"n":154,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, west dock. arc left open. 6 steps. The radio coil stays for the hit."}
+{"n":155,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at Switchyard. Nobody past the west dock. We hit in 7 steps. Arc on the left lane, open."}

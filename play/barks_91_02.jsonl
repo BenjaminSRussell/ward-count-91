@@ -15,3 +15,6 @@
 {"n":15,"kind":"place","name":"Kessler alley south mouth","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Kessler alley south mouth. Bess keeps the rebar for the hit. 3 steps, arc on the left lane, open."}
 {"n":16,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south mouth. arc left open. 4 steps. The rebar stays for the hit."}
 {"n":17,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rebar at the Lot. Nobody past the south mouth. We hit in 5 steps. Arc on the left lane, open."}
+{"n":18,"kind":"place","name":"the Lot south mouth","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the Lot south mouth. Matt keeps the rebar for the hit. 6 steps, arc on the left lane, open."}
+{"n":19,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, south mouth. arc left open. 7 steps. The rebar stays for the hit."}
+{"n":20,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rebar at the Lot. Nobody past the south mouth. We hit in 8 steps. Arc on the left lane, open."}

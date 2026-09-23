@@ -1,1 +1,4 @@
 {"n":1,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the badge door at Clinic roof. Nobody past the north dock. We hit in 3 steps. Arc on the left lane, open."}
+{"n":2,"kind":"place","name":"Clinic roof north dock","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Clinic roof north dock. Matt keeps the badge door for the hit. 4 steps, arc on the left lane, open."}
+{"n":3,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, north dock. arc left open. 5 steps. The badge door stays for the hit."}
+{"n":4,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the badge door at Clinic roof. Nobody past the north dock. We hit in 6 steps. Arc on the left lane, open."}

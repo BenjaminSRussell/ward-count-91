@@ -700,3 +700,6 @@
 {"n":700,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at the Lot. Nobody past the west dock. We hit in 8 steps. Arc on the left lane, open."}
 {"n":701,"kind":"place","name":"the Lot west dock","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the Lot west dock. Nia keeps the crate for the hit. 2 steps, arc on the left lane, open."}
 {"n":702,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, west dock. arc left open. 3 steps. The crate stays for the hit."}
+{"n":703,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at the Lot. Nobody past the west dock. We hit in 4 steps. Arc on the left lane, open."}
+{"n":704,"kind":"place","name":"the Lot west dock","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot west dock. Ivo keeps the crate for the hit. 5 steps, arc on the left lane, open."}
+{"n":705,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west dock. arc left open. 6 steps. The crate stays for the hit."}

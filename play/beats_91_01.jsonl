@@ -351,3 +351,6 @@
 {"n":351,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the hydrant at the Lot. Nobody past the south mouth. We hit in 4 steps. Arc on the left lane, open."}
 {"n":352,"kind":"place","name":"the Lot south mouth","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Lot south mouth. Ivo keeps the hydrant for the hit. 5 steps, arc on the left lane, open."}
 {"n":353,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south mouth. arc left open. 6 steps. The hydrant stays for the hit."}
+{"n":354,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the hydrant at the Lot. Nobody past the south mouth. We hit in 7 steps. Arc on the left lane, open."}
+{"n":355,"kind":"place","name":"the Lot south mouth","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Lot south mouth. Bess keeps the hydrant for the hit. 8 steps, arc on the left lane, open."}
+{"n":356,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, south mouth. arc left open. 2 steps. The hydrant stays for the hit."}

@@ -18,3 +18,6 @@
 {"n":18,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, east dock. arc left open. 2 steps. The lamp stays for the hit."}
 {"n":19,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at High line. Nobody past the east dock. We hit in 3 steps. Arc on the left lane, open."}
 {"n":20,"kind":"place","name":"High line east dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"High line east dock. Ivo keeps the lamp for the hit. 4 steps, arc on the left lane, open."}
+{"n":21,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east dock. arc left open. 5 steps. The lamp stays for the hit."}
+{"n":22,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at High line. Nobody past the east dock. We hit in 6 steps. Arc on the left lane, open."}
+{"n":23,"kind":"place","name":"High line east dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line east dock. Bess keeps the lamp for the hit. 7 steps, arc on the left lane, open."}

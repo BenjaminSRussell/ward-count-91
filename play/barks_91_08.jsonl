@@ -879,3 +879,6 @@
 {"n":879,"kind":"place","name":"High line north dock","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line north dock. Bess keeps the drum for the hit. 7 steps, arc on the left lane, open."}
 {"n":880,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north dock. arc left open. 8 steps. The drum stays for the hit."}
 {"n":881,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the badge door at Ward gate. Nobody past the north dock. We hit in 2 steps. Arc on the left lane, open."}
+{"n":882,"kind":"place","name":"Ward gate north dock","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate north dock. Matt keeps the badge door for the hit. 3 steps, arc on the left lane, open."}
+{"n":883,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north dock. arc left open. 4 steps. The badge door stays for the hit."}
+{"n":884,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the badge door at Ward gate. Nobody past the north dock. We hit in 5 steps. Arc on the left lane, open."}

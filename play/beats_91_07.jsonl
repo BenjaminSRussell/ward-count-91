@@ -819,3 +819,6 @@
 {"n":819,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at the pier. Nobody past the north dock. We hit in 4 steps. Arc on the left lane, open."}
 {"n":820,"kind":"place","name":"the pier north dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the pier north dock. Ivo keeps the crate for the hit. 5 steps, arc on the left lane, open."}
 {"n":821,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north dock. arc left open. 6 steps. The crate stays for the hit."}
+{"n":822,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at the pier. Nobody past the north dock. We hit in 7 steps. Arc on the left lane, open."}
+{"n":823,"kind":"place","name":"the pier north dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the pier north dock. Bess keeps the crate for the hit. 8 steps, arc on the left lane, open."}
+{"n":824,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north dock. arc left open. 2 steps. The crate stays for the hit."}

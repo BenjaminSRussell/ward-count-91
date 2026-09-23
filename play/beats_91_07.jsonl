@@ -828,3 +828,6 @@
 {"n":828,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at Clinic roof. Nobody past the north dock. We hit in 6 steps. Arc on the left lane, open."}
 {"n":829,"kind":"place","name":"Clinic roof north dock","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Clinic roof north dock. Nia keeps the crate for the hit. 7 steps, arc on the left lane, open."}
 {"n":830,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, north dock. arc left open. 8 steps. The crate stays for the hit."}
+{"n":831,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at Clinic roof. Nobody past the north dock. We hit in 2 steps. Arc on the left lane, open."}
+{"n":832,"kind":"place","name":"Clinic roof north dock","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Clinic roof north dock. Ivo keeps the crate for the hit. 3 steps, arc on the left lane, open."}
+{"n":833,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, north dock. arc left open. 4 steps. The crate stays for the hit."}

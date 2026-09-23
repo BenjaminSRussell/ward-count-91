@@ -131,3 +131,6 @@
 {"n":131,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north mouth. arc left open. 8 steps. The radio coil stays for the hit."}
 {"n":132,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at Drydock. Nobody past the north mouth. We hit in 2 steps. Arc on the left lane, open."}
 {"n":133,"kind":"place","name":"Drydock north mouth","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Drydock north mouth. Nia keeps the radio coil for the hit. 3 steps, arc on the left lane, open."}
+{"n":134,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north mouth. arc left open. 4 steps. The radio coil stays for the hit."}
+{"n":135,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at Drydock. Nobody past the north mouth. We hit in 5 steps. Arc on the left lane, open."}
+{"n":136,"kind":"place","name":"Drydock north mouth","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock north mouth. Ivo keeps the radio coil for the hit. 6 steps, arc on the left lane, open."}

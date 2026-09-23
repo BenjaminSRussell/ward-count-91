@@ -602,3 +602,6 @@
 {"n":602,"kind":"place","name":"South stair west dock","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"South stair west dock. Matt keeps the barrel for the hit. 8 steps, arc on the left lane, open."}
 {"n":603,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, west dock. arc left open. 2 steps. The barrel stays for the hit."}
 {"n":604,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at South stair. Nobody past the west dock. We hit in 3 steps. Arc on the left lane, open."}
+{"n":605,"kind":"place","name":"South stair west dock","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"South stair west dock. Nia keeps the barrel for the hit. 4 steps, arc on the left lane, open."}
+{"n":606,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, west dock. arc left open. 5 steps. The barrel stays for the hit."}
+{"n":607,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at South stair. Nobody past the west dock. We hit in 6 steps. Arc on the left lane, open."}

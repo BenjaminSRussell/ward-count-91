@@ -191,3 +191,6 @@
 {"n":191,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rope at the Lot. Nobody past the south mouth. We hit in 4 steps. Arc on the left lane, open."}
 {"n":192,"kind":"place","name":"the Lot south mouth","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Lot south mouth. Ivo keeps the rope for the hit. 5 steps, arc on the left lane, open."}
 {"n":193,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south mouth. arc left open. 6 steps. The rope stays for the hit."}
+{"n":194,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rope at the Lot. Nobody past the south mouth. We hit in 7 steps. Arc on the left lane, open."}
+{"n":195,"kind":"place","name":"the Lot south mouth","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Lot south mouth. Bess keeps the rope for the hit. 8 steps, arc on the left lane, open."}
+{"n":196,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, south mouth. arc left open. 2 steps. The rope stays for the hit."}

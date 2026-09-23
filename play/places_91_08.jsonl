@@ -829,3 +829,6 @@
 {"n":829,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north dock. arc left open. 6 steps. The drum stays for the hit."}
 {"n":830,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the drum at the pier. Nobody past the north dock. We hit in 7 steps. Arc on the left lane, open."}
 {"n":831,"kind":"place","name":"the pier north dock","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the pier north dock. Bess keeps the drum for the hit. 8 steps, arc on the left lane, open."}
+{"n":832,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north dock. arc left open. 2 steps. The drum stays for the hit."}
+{"n":833,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at Clinic roof. Nobody past the north dock. We hit in 3 steps. Arc on the left lane, open."}
+{"n":834,"kind":"place","name":"Clinic roof north dock","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Clinic roof north dock. Matt keeps the drum for the hit. 4 steps, arc on the left lane, open."}

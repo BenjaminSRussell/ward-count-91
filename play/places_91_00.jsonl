@@ -663,3 +663,6 @@
 {"n":663,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, north mouth. arc left open. 2 steps. The drum stays for the hit."}
 {"n":664,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the drum at Kessler alley. Nobody past the north mouth. We hit in 3 steps. Arc on the left lane, open."}
 {"n":665,"kind":"place","name":"Kessler alley north mouth","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Kessler alley north mouth. Nia keeps the drum for the hit. 4 steps, arc on the left lane, open."}
+{"n":666,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, north mouth. arc left open. 5 steps. The drum stays for the hit."}
+{"n":667,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the drum at Kessler alley. Nobody past the north mouth. We hit in 6 steps. Arc on the left lane, open."}
+{"n":668,"kind":"place","name":"Kessler alley north mouth","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Kessler alley north mouth. Ivo keeps the drum for the hit. 7 steps, arc on the left lane, open."}

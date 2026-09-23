@@ -728,3 +728,6 @@
 {"n":728,"kind":"place","name":"Mall court west dock","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mall court west dock. Ivo keeps the crate for the hit. 8 steps, arc on the left lane, open."}
 {"n":729,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, west dock. arc left open. 2 steps. The crate stays for the hit."}
 {"n":730,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at Mall court. Nobody past the west dock. We hit in 3 steps. Arc on the left lane, open."}
+{"n":731,"kind":"place","name":"Mall court west dock","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mall court west dock. Bess keeps the crate for the hit. 4 steps, arc on the left lane, open."}
+{"n":732,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, west dock. arc left open. 5 steps. The crate stays for the hit."}
+{"n":733,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at the Underpass. Nobody past the west dock. We hit in 6 steps. Arc on the left lane, open."}

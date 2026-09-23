@@ -729,3 +729,6 @@
 {"n":729,"kind":"place","name":"Stockyard fence east dock","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Stockyard fence east dock. Nia keeps the crate for the hit. 7 steps, arc on the left lane, open."}
 {"n":730,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east dock. arc left open. 8 steps. The crate stays for the hit."}
 {"n":731,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at Stockyard fence. Nobody past the east dock. We hit in 2 steps. Arc on the left lane, open."}
+{"n":732,"kind":"place","name":"Stockyard fence east dock","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Stockyard fence east dock. Ivo keeps the crate for the hit. 3 steps, arc on the left lane, open."}
+{"n":733,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east dock. arc left open. 4 steps. The crate stays for the hit."}
+{"n":734,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at Stockyard fence. Nobody past the east dock. We hit in 5 steps. Arc on the left lane, open."}

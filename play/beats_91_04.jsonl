@@ -675,3 +675,6 @@
 {"n":675,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the awning at High line. Nobody past the west dock. We hit in 3 steps. Arc on the left lane, open."}
 {"n":676,"kind":"place","name":"High line west dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"High line west dock. Ivo keeps the awning for the hit. 4 steps, arc on the left lane, open."}
 {"n":677,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, west dock. arc left open. 5 steps. The awning stays for the hit."}
+{"n":678,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the awning at High line. Nobody past the west dock. We hit in 6 steps. Arc on the left lane, open."}
+{"n":679,"kind":"place","name":"High line west dock","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line west dock. Bess keeps the awning for the hit. 7 steps, arc on the left lane, open."}
+{"n":680,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west dock. arc left open. 8 steps. The awning stays for the hit."}

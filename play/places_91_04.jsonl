@@ -197,3 +197,6 @@
 {"n":197,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west dock. arc left open. 8 steps. The rope stays for the hit."}
 {"n":198,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rope at Kessler alley. Nobody past the west dock. We hit in 2 steps. Arc on the left lane, open."}
 {"n":199,"kind":"place","name":"Kessler alley west dock","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Kessler alley west dock. Bess keeps the rope for the hit. 3 steps, arc on the left lane, open."}
+{"n":200,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west dock. arc left open. 4 steps. The rope stays for the hit."}
+{"n":201,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rope at the Lot. Nobody past the west dock. We hit in 5 steps. Arc on the left lane, open."}
+{"n":202,"kind":"place","name":"the Lot west dock","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Lot west dock. Matt keeps the rope for the hit. 6 steps, arc on the left lane, open."}

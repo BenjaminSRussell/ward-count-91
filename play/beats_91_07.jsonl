@@ -951,3 +951,6 @@
 {"n":951,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at Mast yard. Nobody past the north dock. We hit in 3 steps. Arc on the left lane, open."}
 {"n":952,"kind":"place","name":"Mast yard north dock","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mast yard north dock. Ivo keeps the lamp for the hit. 4 steps, arc on the left lane, open."}
 {"n":953,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north dock. arc left open. 5 steps. The lamp stays for the hit."}
+{"n":954,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at Mast yard. Nobody past the north dock. We hit in 6 steps. Arc on the left lane, open."}
+{"n":955,"kind":"place","name":"Mast yard north dock","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mast yard north dock. Bess keeps the lamp for the hit. 7 steps, arc on the left lane, open."}
+{"n":956,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north dock. arc left open. 8 steps. The lamp stays for the hit."}

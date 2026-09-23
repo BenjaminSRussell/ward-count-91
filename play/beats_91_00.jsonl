@@ -283,3 +283,6 @@
 {"n":283,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rope at Switchyard. Nobody past the north mouth. We hit in 7 steps. Arc on the left lane, open."}
 {"n":284,"kind":"place","name":"Switchyard north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Switchyard north mouth. Ivo keeps the rope for the hit. 8 steps, arc on the left lane, open."}
 {"n":285,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north mouth. arc left open. 2 steps. The rope stays for the hit."}
+{"n":286,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rope at Switchyard. Nobody past the north mouth. We hit in 3 steps. Arc on the left lane, open."}
+{"n":287,"kind":"place","name":"Switchyard north mouth","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Switchyard north mouth. Bess keeps the rope for the hit. 4 steps, arc on the left lane, open."}
+{"n":288,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north mouth. arc left open. 5 steps. The rope stays for the hit."}

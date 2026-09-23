@@ -747,3 +747,6 @@
 {"n":747,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, south dock. arc left open. 7 steps. The crate stays for the hit."}
 {"n":748,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at the Lot. Nobody past the south dock. We hit in 8 steps. Arc on the left lane, open."}
 {"n":749,"kind":"place","name":"the Lot south dock","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Lot south dock. Nia keeps the crate for the hit. 2 steps, arc on the left lane, open."}
+{"n":750,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, south dock. arc left open. 3 steps. The crate stays for the hit."}
+{"n":751,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at the Lot. Nobody past the south dock. We hit in 4 steps. Arc on the left lane, open."}
+{"n":752,"kind":"place","name":"the Lot south dock","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Lot south dock. Ivo keeps the crate for the hit. 5 steps, arc on the left lane, open."}

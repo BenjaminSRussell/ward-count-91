@@ -432,3 +432,6 @@
 {"n":432,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north mouth. arc left open. 2 steps. The shutter stays for the hit."}
 {"n":433,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the shutter at Clinic roof. Nobody past the north mouth. We hit in 3 steps. Arc on the left lane, open."}
 {"n":434,"kind":"place","name":"Clinic roof north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Clinic roof north mouth. Matt keeps the shutter for the hit. 4 steps, arc on the left lane, open."}
+{"n":435,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, north mouth. arc left open. 5 steps. The shutter stays for the hit."}
+{"n":436,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at Clinic roof. Nobody past the north mouth. We hit in 6 steps. Arc on the left lane, open."}
+{"n":437,"kind":"place","name":"Clinic roof north mouth","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Clinic roof north mouth. Nia keeps the shutter for the hit. 7 steps, arc on the left lane, open."}

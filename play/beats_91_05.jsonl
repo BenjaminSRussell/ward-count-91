@@ -68,3 +68,6 @@
 {"n":68,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at Mall court. Nobody past the west dock. We hit in 4 steps. Arc on the left lane, open."}
 {"n":69,"kind":"place","name":"Mall court west dock","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Mall court west dock. Nia keeps the radio coil for the hit. 5 steps, arc on the left lane, open."}
 {"n":70,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, west dock. arc left open. 6 steps. The radio coil stays for the hit."}
+{"n":71,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at Mall court. Nobody past the west dock. We hit in 7 steps. Arc on the left lane, open."}
+{"n":72,"kind":"place","name":"Mall court west dock","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mall court west dock. Ivo keeps the radio coil for the hit. 8 steps, arc on the left lane, open."}
+{"n":73,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, west dock. arc left open. 2 steps. The radio coil stays for the hit."}

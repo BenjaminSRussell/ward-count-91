@@ -767,3 +767,6 @@
 {"n":767,"kind":"place","name":"Last Light west dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Last Light west dock. Bess keeps the crate for the hit. 5 steps, arc on the left lane, open."}
 {"n":768,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, west dock. arc left open. 6 steps. The crate stays for the hit."}
 {"n":769,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at South stair. Nobody past the west dock. We hit in 7 steps. Arc on the left lane, open."}
+{"n":770,"kind":"place","name":"South stair west dock","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"South stair west dock. Matt keeps the crate for the hit. 8 steps, arc on the left lane, open."}
+{"n":771,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, west dock. arc left open. 2 steps. The crate stays for the hit."}
+{"n":772,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at South stair. Nobody past the west dock. We hit in 3 steps. Arc on the left lane, open."}

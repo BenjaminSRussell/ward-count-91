@@ -455,3 +455,6 @@
 {"n":455,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at Clinic roof. Nobody past the south mouth. We hit in 2 steps. Arc on the left lane, open."}
 {"n":456,"kind":"place","name":"Clinic roof south mouth","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Clinic roof south mouth. Ivo keeps the shutter for the hit. 3 steps, arc on the left lane, open."}
 {"n":457,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, south mouth. arc left open. 4 steps. The shutter stays for the hit."}
+{"n":458,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at Clinic roof. Nobody past the south mouth. We hit in 5 steps. Arc on the left lane, open."}
+{"n":459,"kind":"place","name":"Clinic roof south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Clinic roof south mouth. Bess keeps the shutter for the hit. 6 steps, arc on the left lane, open."}
+{"n":460,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, south mouth. arc left open. 7 steps. The shutter stays for the hit."}

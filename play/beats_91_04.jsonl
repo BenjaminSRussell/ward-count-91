@@ -900,3 +900,6 @@
 {"n":900,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the badge door at Mall court. Nobody past the west dock. We hit in 4 steps. Arc on the left lane, open."}
 {"n":901,"kind":"place","name":"Mall court west dock","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Mall court west dock. Nia keeps the badge door for the hit. 5 steps, arc on the left lane, open."}
 {"n":902,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, west dock. arc left open. 6 steps. The badge door stays for the hit."}
+{"n":903,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the badge door at Mall court. Nobody past the west dock. We hit in 7 steps. Arc on the left lane, open."}
+{"n":904,"kind":"place","name":"Mall court west dock","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Mall court west dock. Ivo keeps the badge door for the hit. 8 steps, arc on the left lane, open."}
+{"n":905,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, west dock. arc left open. 2 steps. The badge door stays for the hit."}

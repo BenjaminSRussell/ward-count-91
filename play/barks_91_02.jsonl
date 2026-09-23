@@ -159,3 +159,6 @@
 {"n":159,"kind":"place","name":"High line south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line south mouth. Bess keeps the rebar for the hit. 7 steps, arc on the left lane, open."}
 {"n":160,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south mouth. arc left open. 8 steps. The rebar stays for the hit."}
 {"n":161,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rope at Ward gate. Nobody past the south mouth. We hit in 2 steps. Arc on the left lane, open."}
+{"n":162,"kind":"place","name":"Ward gate south mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate south mouth. Matt keeps the rope for the hit. 3 steps, arc on the left lane, open."}
+{"n":163,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south mouth. arc left open. 4 steps. The rope stays for the hit."}
+{"n":164,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rope at Ward gate. Nobody past the south mouth. We hit in 5 steps. Arc on the left lane, open."}

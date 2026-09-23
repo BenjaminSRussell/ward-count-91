@@ -237,3 +237,6 @@
 {"n":237,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, north mouth. arc left open. 3 steps. The rope stays for the hit."}
 {"n":238,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rope at Last Light. Nobody past the north mouth. We hit in 4 steps. Arc on the left lane, open."}
 {"n":239,"kind":"place","name":"Last Light north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Last Light north mouth. Bess keeps the rope for the hit. 5 steps, arc on the left lane, open."}
+{"n":240,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, north mouth. arc left open. 6 steps. The rope stays for the hit."}
+{"n":241,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rope at South stair. Nobody past the north mouth. We hit in 7 steps. Arc on the left lane, open."}
+{"n":242,"kind":"place","name":"South stair north mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"South stair north mouth. Matt keeps the rope for the hit. 8 steps, arc on the left lane, open."}

@@ -736,3 +736,6 @@
 {"n":736,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, east dock. arc left open. 7 steps. The crate stays for the hit."}
 {"n":737,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at Mall court. Nobody past the east dock. We hit in 8 steps. Arc on the left lane, open."}
 {"n":738,"kind":"place","name":"Mall court east dock","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Mall court east dock. Matt keeps the crate for the hit. 2 steps, arc on the left lane, open."}
+{"n":739,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, east dock. arc left open. 3 steps. The crate stays for the hit."}
+{"n":740,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at Mall court. Nobody past the east dock. We hit in 4 steps. Arc on the left lane, open."}
+{"n":741,"kind":"place","name":"Mall court east dock","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Mall court east dock. Nia keeps the crate for the hit. 5 steps, arc on the left lane, open."}

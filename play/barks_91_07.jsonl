@@ -94,3 +94,6 @@
 {"n":94,"kind":"place","name":"the Underpass east dock","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Underpass east dock. Matt keeps the radio coil for the hit. 7 steps, arc on the left lane, open."}
 {"n":95,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, east dock. arc left open. 8 steps. The radio coil stays for the hit."}
 {"n":96,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at the Underpass. Nobody past the east dock. We hit in 2 steps. Arc on the left lane, open."}
+{"n":97,"kind":"place","name":"the Underpass east dock","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Underpass east dock. Nia keeps the radio coil for the hit. 3 steps, arc on the left lane, open."}
+{"n":98,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, east dock. arc left open. 4 steps. The radio coil stays for the hit."}
+{"n":99,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at the Underpass. Nobody past the east dock. We hit in 5 steps. Arc on the left lane, open."}

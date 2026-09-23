@@ -922,3 +922,6 @@
 {"n":922,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, east dock. arc left open. 4 steps. The lamp stays for the hit."}
 {"n":923,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at the Underpass. Nobody past the east dock. We hit in 5 steps. Arc on the left lane, open."}
 {"n":924,"kind":"place","name":"the Underpass east dock","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Underpass east dock. Ivo keeps the lamp for the hit. 6 steps, arc on the left lane, open."}
+{"n":925,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, east dock. arc left open. 7 steps. The lamp stays for the hit."}
+{"n":926,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at the Underpass. Nobody past the east dock. We hit in 8 steps. Arc on the left lane, open."}
+{"n":927,"kind":"place","name":"the Underpass east dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Underpass east dock. Bess keeps the lamp for the hit. 2 steps, arc on the left lane, open."}

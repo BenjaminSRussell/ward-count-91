@@ -367,3 +367,6 @@
 {"n":367,"kind":"place","name":"High line north dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line north dock. Bess keeps the plywood for the hit. 7 steps, arc on the left lane, open."}
 {"n":368,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north dock. arc left open. 8 steps. The plywood stays for the hit."}
 {"n":369,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the hydrant at Ward gate. Nobody past the north dock. We hit in 2 steps. Arc on the left lane, open."}
+{"n":370,"kind":"place","name":"Ward gate north dock","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Ward gate north dock. Matt keeps the hydrant for the hit. 3 steps, arc on the left lane, open."}
+{"n":371,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north dock. arc left open. 4 steps. The hydrant stays for the hit."}
+{"n":372,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the hydrant at Ward gate. Nobody past the north dock. We hit in 5 steps. Arc on the left lane, open."}

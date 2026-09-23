@@ -695,3 +695,6 @@
 {"n":695,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, south mouth. arc left open. 5 steps. The crate stays for the hit."}
 {"n":696,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at Stockyard fence. Nobody past the south mouth. We hit in 6 steps. Arc on the left lane, open."}
 {"n":697,"kind":"place","name":"Stockyard fence south mouth","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Stockyard fence south mouth. Nia keeps the crate for the hit. 7 steps, arc on the left lane, open."}
+{"n":698,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, south mouth. arc left open. 8 steps. The crate stays for the hit."}
+{"n":699,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at Stockyard fence. Nobody past the south mouth. We hit in 2 steps. Arc on the left lane, open."}
+{"n":700,"kind":"place","name":"Stockyard fence south mouth","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Stockyard fence south mouth. Ivo keeps the crate for the hit. 3 steps, arc on the left lane, open."}

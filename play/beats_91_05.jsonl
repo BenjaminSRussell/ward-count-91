@@ -92,3 +92,6 @@
 {"n":92,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at Mast yard. Nobody past the west dock. We hit in 7 steps. Arc on the left lane, open."}
 {"n":93,"kind":"place","name":"Mast yard west dock","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Mast yard west dock. Nia keeps the radio coil for the hit. 8 steps, arc on the left lane, open."}
 {"n":94,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, west dock. arc left open. 2 steps. The radio coil stays for the hit."}
+{"n":95,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at Mast yard. Nobody past the west dock. We hit in 3 steps. Arc on the left lane, open."}
+{"n":96,"kind":"place","name":"Mast yard west dock","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mast yard west dock. Ivo keeps the radio coil for the hit. 4 steps, arc on the left lane, open."}
+{"n":97,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, west dock. arc left open. 5 steps. The radio coil stays for the hit."}

@@ -69,3 +69,6 @@
 {"n":69,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, north mouth. arc left open. 3 steps. The rebar stays for the hit."}
 {"n":70,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rebar at Last Light. Nobody past the north mouth. We hit in 4 steps. Arc on the left lane, open."}
 {"n":71,"kind":"place","name":"Last Light north mouth","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Last Light north mouth. Bess keeps the rebar for the hit. 5 steps, arc on the left lane, open."}
+{"n":72,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, north mouth. arc left open. 6 steps. The rebar stays for the hit."}
+{"n":73,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rebar at South stair. Nobody past the north mouth. We hit in 7 steps. Arc on the left lane, open."}
+{"n":74,"kind":"place","name":"South stair north mouth","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"South stair north mouth. Matt keeps the rebar for the hit. 8 steps, arc on the left lane, open."}

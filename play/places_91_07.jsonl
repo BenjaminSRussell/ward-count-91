@@ -803,3 +803,6 @@
 {"n":803,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, north dock. arc left open. 2 steps. The crate stays for the hit."}
 {"n":804,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at South stair. Nobody past the north dock. We hit in 3 steps. Arc on the left lane, open."}
 {"n":805,"kind":"place","name":"South stair north dock","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"South stair north dock. Nia keeps the crate for the hit. 4 steps, arc on the left lane, open."}
+{"n":806,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, north dock. arc left open. 5 steps. The crate stays for the hit."}
+{"n":807,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at South stair. Nobody past the north dock. We hit in 6 steps. Arc on the left lane, open."}
+{"n":808,"kind":"place","name":"South stair north dock","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"South stair north dock. Ivo keeps the crate for the hit. 7 steps, arc on the left lane, open."}

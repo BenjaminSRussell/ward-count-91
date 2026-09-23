@@ -529,3 +529,6 @@
 {"n":529,"kind":"place","name":"Stockyard fence south mouth","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Stockyard fence south mouth. Nia keeps the barrel for the hit. 7 steps, arc on the left lane, open."}
 {"n":530,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, south mouth. arc left open. 8 steps. The barrel stays for the hit."}
 {"n":531,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at Stockyard fence. Nobody past the south mouth. We hit in 2 steps. Arc on the left lane, open."}
+{"n":532,"kind":"place","name":"Stockyard fence south mouth","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Stockyard fence south mouth. Ivo keeps the barrel for the hit. 3 steps, arc on the left lane, open."}
+{"n":533,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, south mouth. arc left open. 4 steps. The barrel stays for the hit."}
+{"n":534,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at Stockyard fence. Nobody past the south mouth. We hit in 5 steps. Arc on the left lane, open."}

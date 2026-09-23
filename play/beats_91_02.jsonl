@@ -59,3 +59,6 @@
 {"n":59,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rebar at the Underpass. Nobody past the south mouth. We hit in 5 steps. Arc on the left lane, open."}
 {"n":60,"kind":"place","name":"the Underpass south mouth","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Underpass south mouth. Ivo keeps the rebar for the hit. 6 steps, arc on the left lane, open."}
 {"n":61,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, south mouth. arc left open. 7 steps. The rebar stays for the hit."}
+{"n":62,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rebar at the Underpass. Nobody past the south mouth. We hit in 8 steps. Arc on the left lane, open."}
+{"n":63,"kind":"place","name":"the Underpass south mouth","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Underpass south mouth. Bess keeps the rebar for the hit. 2 steps, arc on the left lane, open."}
+{"n":64,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, south mouth. arc left open. 3 steps. The rebar stays for the hit."}

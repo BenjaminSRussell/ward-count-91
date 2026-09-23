@@ -845,3 +845,6 @@
 {"n":845,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north dock. arc left open. 2 steps. The crate stays for the hit."}
 {"n":846,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at Switchyard. Nobody past the north dock. We hit in 3 steps. Arc on the left lane, open."}
 {"n":847,"kind":"place","name":"Switchyard north dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Switchyard north dock. Bess keeps the crate for the hit. 4 steps, arc on the left lane, open."}
+{"n":848,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north dock. arc left open. 5 steps. The crate stays for the hit."}
+{"n":849,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at Drydock. Nobody past the north dock. We hit in 6 steps. Arc on the left lane, open."}
+{"n":850,"kind":"place","name":"Drydock north dock","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Drydock north dock. Matt keeps the crate for the hit. 7 steps, arc on the left lane, open."}

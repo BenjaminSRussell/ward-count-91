@@ -619,3 +619,6 @@
 {"n":619,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the awning at Last Light. Nobody past the east dock. We hit in 8 steps. Arc on the left lane, open."}
 {"n":620,"kind":"place","name":"Last Light east dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Last Light east dock. Ivo keeps the awning for the hit. 2 steps, arc on the left lane, open."}
 {"n":621,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, east dock. arc left open. 3 steps. The awning stays for the hit."}
+{"n":622,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the awning at Last Light. Nobody past the east dock. We hit in 4 steps. Arc on the left lane, open."}
+{"n":623,"kind":"place","name":"Last Light east dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Last Light east dock. Bess keeps the awning for the hit. 5 steps, arc on the left lane, open."}
+{"n":624,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, east dock. arc left open. 6 steps. The awning stays for the hit."}

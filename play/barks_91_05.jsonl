@@ -741,3 +741,6 @@
 {"n":741,"kind":"place","name":"Mall court east dock","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Mall court east dock. Nia keeps the crate for the hit. 5 steps, arc on the left lane, open."}
 {"n":742,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, east dock. arc left open. 6 steps. The crate stays for the hit."}
 {"n":743,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at Mall court. Nobody past the east dock. We hit in 7 steps. Arc on the left lane, open."}
+{"n":744,"kind":"place","name":"Mall court east dock","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Mall court east dock. Ivo keeps the crate for the hit. 8 steps, arc on the left lane, open."}
+{"n":745,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, east dock. arc left open. 2 steps. The crate stays for the hit."}
+{"n":746,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at Mall court. Nobody past the east dock. We hit in 3 steps. Arc on the left lane, open."}

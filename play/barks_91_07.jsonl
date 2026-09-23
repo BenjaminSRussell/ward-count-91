@@ -283,3 +283,6 @@
 {"n":283,"kind":"place","name":"Mast yard north dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mast yard north dock. Bess keeps the plywood for the hit. 7 steps, arc on the left lane, open."}
 {"n":284,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north dock. arc left open. 8 steps. The plywood stays for the hit."}
 {"n":285,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the plywood at Last Light. Nobody past the north dock. We hit in 2 steps. Arc on the left lane, open."}
+{"n":286,"kind":"place","name":"Last Light north dock","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Last Light north dock. Matt keeps the plywood for the hit. 3 steps, arc on the left lane, open."}
+{"n":287,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, north dock. arc left open. 4 steps. The plywood stays for the hit."}
+{"n":288,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at Last Light. Nobody past the north dock. We hit in 5 steps. Arc on the left lane, open."}
